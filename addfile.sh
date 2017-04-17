@@ -19,3 +19,4 @@ if grep -Fxq $uname $fname
 	else
 		echo $uname >> $fname
 fi
+anjuuuuuuuu
